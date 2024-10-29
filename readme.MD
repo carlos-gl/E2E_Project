@@ -15,7 +15,7 @@ Certifique-se de que você tem instalado em sua máquina:
 ### Clonando o Repositório
 
 ```
-git clone https://github.com/carlos-gl/E2E_Project.git
+git clone https://github.com/carlos-gl/E2E-Project.git
 ```
 Utilize sua IDE de preferência para executar o projeto (Sugetão: InteliJJ).
 
@@ -31,7 +31,7 @@ As definições de passos correspondentes estão na pasta src/test/java/stepDefi
 mvn clean test
 ```
 
-#### O mesmo também é executado através do github actions, está configurado para rodar a esteira a cada commit.
+#### O mesmo também é executado através do github actions, está configurado para rodar a esteira a cada commit, e após execução gera o artefato com os resultados.
 ### Padrões Utilizados
 #### BDD (Behavior Driven Development).
 #### Page Object Model (POM).
