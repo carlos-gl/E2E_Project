@@ -15,7 +15,7 @@ Certifique-se de que você tem instalado em sua máquina:
 ### Clonando o Repositório
 
 ```
-git clone https://github.com/carlos-gl/E2E-Project.git
+git clone https://github.com/carlos-gl/E2E_Project.git
 ```
 Utilize sua IDE de preferência para executar o projeto (Sugetão: InteliJJ).
 
